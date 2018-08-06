@@ -1,7 +1,7 @@
 {
   "name": "metaweather",
   "version": "1.0.0",
-  "description": "gi",
+  "description": "REST api testing demo project",
   "main": "index.js",
   "dependencies": {
     "mocha": "5.2.0",
