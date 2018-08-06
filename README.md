@@ -8,3 +8,5 @@ How to set up and run:
 This is it;)
 
 Results are going to be printed out to console. Also html report will be available here - ./mochawesome-report/mochawesome.html
+
+![Alt Text](https://github.com/arustamov/metaweather/blob/master/metaweather.gif)
