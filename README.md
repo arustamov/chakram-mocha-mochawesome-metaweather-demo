@@ -1,5 +1,8 @@
 # metaweather
+
 REST api testing demo project (Chakram + Mocha + Mochawesome example)
+
+![](https://github.com/arustamov/metaweather/blob/master/metaweather.gif)
 
 How to set up and run:
 1. Install NodeJS 
@@ -8,5 +11,3 @@ How to set up and run:
 This is it;)
 
 Results are going to be printed out to console. Also html report will be available here - ./mochawesome-report/mochawesome.html
-
-![](https://github.com/arustamov/metaweather/blob/master/metaweather.gif)
