@@ -4,7 +4,7 @@
   "description": "REST api testing demo project",
   "main": "index.js",
   "dependencies": {
-    "mocha": "5.2.0",
+    "mocha": "10.2.0",
     "mochawesome": "3.0.3",
     "chakram": "1.5.0"
   },
